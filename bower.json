@@ -1,0 +1,12 @@
+{
+  "name": "grunt-test-project",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AdamKeesecker/grunt-test-project",
+  "authors": [
+    "Adam Keesecker <adamkeesecker@gmail.com>"
+  ],
+  "description": "This app is proof that grunt > prepros",
+  "main": "public/index.html",
+  "license": "MIT",
+  "private": true
+}
